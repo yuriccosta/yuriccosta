@@ -13,11 +13,11 @@
 
 
 ## Stats
-<div>
-<a href="https://github.com/yuriccosta">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriccosta&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=yuriccosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriccosta&layout=compact&langs_count=7&theme=dracula)  
+  
+![yuriccosta stats](https://github-readme-stats.vercel.app/api?username=yuriccosta&theme=dracula&show_icons=true)
 
 <!--
 **yuriccosta/yuriccosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
